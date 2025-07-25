@@ -107,4 +107,3 @@
 ## 📮 문의
 
 - 개발자: 주재오  
-- GitHub: [@nokcha111](https://github.com/nokcha111)  
