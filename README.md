@@ -56,8 +56,55 @@
 
 > Naver Maps API도 고려했으나 기능 제한으로 제외하였습니다.
 
-### 기술적 도움
-- **ChatGPT 활용**
-  - 아이디어 회의 및 기획
-  - 코드 보완 및 디버깅
-  - GP
+---
+
+## 🖼️ 앱 실행 화면
+
+### ▶ 앱 인트로 & 위치 인식
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/db90e648-535c-4d50-9847-6d7451ef5ba8" width="200" />
+  <img src="https://github.com/user-attachments/assets/99575ccf-9395-4b56-a4e0-590b27eb9b35" width="200" />
+</div>
+
+<p align="center"><i>앱 초기 실행 및 사용자 위치 인식</i></p>
+
+---
+
+### ▶ 식당 종류별 필터 보기
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e1549bc6-1a1e-4eda-b7e7-c1fb217652c5" width="180" />
+  <img src="https://github.com/user-attachments/assets/726841f9-1853-4e94-b966-12118419136c" width="180" />
+  <img src="https://github.com/user-attachments/assets/dd376d5c-4ac7-4833-aa3f-aba8cc23d122" width="180" />
+</div>
+
+<p align="center"><i>전체 / 백년가게 / 안심식당만 보기</i></p>
+
+### ▶ 마커 클릭 및 상세 정보 모달
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e9c25292-b2a9-4450-9b1a-e3d157038eea" width="200" />
+  <img src="https://github.com/user-attachments/assets/d5f28424-11e8-4ef4-a2de-d4336c2c8298" width="200" />
+</div>
+
+<p align="center"><i>마커 클릭 시 상호명 표시 → 클릭하면 상세 정보 모달 팝업</i></p>
+
+---
+
+### ▶ 별점 평가 기능
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/96fbd5ee-1869-4374-b1da-9f70846c0ded" width="200" />
+  <img src="https://github.com/user-attachments/assets/8856262d-a166-4992-bdc8-68b6b25f8e27" width="200" />
+</div>
+
+<p align="center"><i>드래그 방식 별점 입력 기능 및 평가한 맛집 모아보기</i></p>
+
+---
+
+
+## 📮 문의
+
+- 개발자: 주재오  
+- GitHub: [@nokcha111](https://github.com/nokcha111)  
